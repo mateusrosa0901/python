@@ -1,6 +1,3 @@
-from ctypes.wintypes import PINT
-
-
 sa = float(input('Salário atual: R$'))
 sn = sa + (sa*0.15)
 

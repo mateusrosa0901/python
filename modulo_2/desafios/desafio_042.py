@@ -1,6 +1,3 @@
-from xmlrpc.client import boolean
-
-
 r1 = float(input('1° reta: '))
 r2 = float(input('2° reta: '))
 r3 = float(input('3° reta: '))

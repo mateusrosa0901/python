@@ -1,6 +1,3 @@
-from itertools import count
-
-
 frase = input('Digite uma frase: ')
 formatar = frase.upper().strip()
 contA = formatar.count('A')

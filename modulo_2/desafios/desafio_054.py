@@ -1,4 +1,4 @@
-from datetime import date, datetime
+from datetime import date
 ma = 0
 me = 0
 for p in range(1,8):

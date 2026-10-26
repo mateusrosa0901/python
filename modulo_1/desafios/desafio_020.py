@@ -1,4 +1,3 @@
-from binascii import a2b_base64
 import random
 
 a1 = input('Digite o nome do 1° aluno: ')

@@ -1,6 +1,3 @@
-from tkinter import N
-
-
 print(f'paragrafo 1' , end=' ')
 print('paragrafo 2')
 

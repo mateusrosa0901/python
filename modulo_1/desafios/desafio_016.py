@@ -1,6 +1,3 @@
-import imp
-
-
 import math
 n = float(input('Digite um número quebrado: '))
 

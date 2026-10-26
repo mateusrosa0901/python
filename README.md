@@ -64,6 +64,12 @@ O nome de cada arquivo segue o número da aula ou do desafio no curso, com zeros
 
 Precisa do **Python 3.12 ou mais recente** (alguns desafios usam `match/case` e f-strings com aspas aninhadas).
 
+Quase tudo usa só a biblioteca padrão. Três arquivos pedem pacotes externos: `emoji` (aula 8), `pygame` (desafio 21, que toca um MP3) e `requests` (desafio 114). Para instalar:
+
+```bash
+pip install emoji pygame requests
+```
+
 ```bash
 git clone https://github.com/mateusrosa0901/python.git
 cd python
